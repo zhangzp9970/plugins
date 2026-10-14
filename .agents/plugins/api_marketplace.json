@@ -1,5 +1,5 @@
 {
-  "name": "openai-api-curated",
+  "name": "openai-api-official",
   "interface": {
     "displayName": "Codex official"
   },
